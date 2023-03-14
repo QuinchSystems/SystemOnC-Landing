@@ -658,4 +658,13 @@ textarea.form-control {
 .link-title:hover {
   color: #f9a743;
 }
+
+.product-info {
+  text-align: center;
+}
+
+.product-info p {
+  margin-top: 1rem;
+  font-weight: 500;
+}
 /*# sourceMappingURL=style.css.map */
